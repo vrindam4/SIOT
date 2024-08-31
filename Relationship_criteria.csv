@@ -1,0 +1,11 @@
+Relation,Type,Distance,Category,Protocol,Manufacturer,Intersections
+STOR,Different,<=120,Public-Private,ZigBee,Different,==0
+SOR,Different,"160<,<400",Public-Private,"Wifi,ZigBee",Different,==2
+GSTOR,Same,<80,Private-Private,"Wifi,Bluetooth,ZigBee",Different,==1
+SROR,Same,<=120,Public-Private,Wifi,Different,>=0
+CLOR,Same,"80<,<400",Private-Private,"Wifi,Bluetooth,ZigBee",Different,>=2
+CWOR,Different,<80,Private-Private,"Wifi,Bluetooth",Different,>2
+GUOR,Different,"400<,<800",Private-Private,"Wifi,Bluetooth",Different,<6
+OOR,Different,<160,Private-Private,"Wifi,Bluetooth,ZigBee",Same,>3
+SIBOR,Different,<400,Private-Private,"Wifi,Bluetooth,ZigBee",Different,<=3
+POR,Same,<3200,Private-Private,"Wifi,Bluetooth,ZigBee",Same,>=6

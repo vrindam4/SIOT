@@ -1,0 +1,8 @@
+scipy==1.6.3
+pandas==1.2.3
+numpy==1.20.1
+matplotlib==3.4.1
+joblib==1.0.1
+sko==0.5.7
+PyQt5==5.15.4
+scikit_learn==0.24.2

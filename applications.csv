@@ -1,0 +1,13 @@
+﻿Application id,Applications,Services id,Service names,Devices
+1,Crash detect App,"5,8,10","Environment,Traffic Status,Movement",
+2,Streetlight App,"4,8,9","People Presence,Traffic Status,Street light",
+3,City consumption app,7,Energy consumption,
+4,Traffic app,"1,5,8,10","Location,Environment,Traffic Status,Movement",
+5,Bus app,"1,2,10,11","Location,Environment,Traffic Status,Movement",
+6,Temperature app,"1,5","Location,Environment",
+7,Home consumption app,16,Garbage truck movement,
+8,Event app,3,Poi Event,
+9,Parking app,"1,13","Location,Parking Status",
+10,Crowd app,"1,5,6","Location,Environment,Weather",
+11,Drive monitoring app,"5,6,8,9,10","Environment,Traffic Status,Movement,Weather,Street light",
+12,Fire detect app,"4,5","People Presence,Environment",
