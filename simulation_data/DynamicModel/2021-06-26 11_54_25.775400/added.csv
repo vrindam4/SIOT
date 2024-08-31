@@ -1,0 +1,12 @@
+Device_id,Device,Device_type,Device_mobility,Device Distribution,Object_id,Owner_id,Owner_name,Manufacturing_id,Service_id,Application_id,Connectivity,GPS_Start,Link,Relationship,Application_id_sensor
+D1,SmartPhone,Private,Mobile,,90,32,RVCQMEG,52,"12,16",23,"Wifi,Bluetooth,GSM","151,88",,,
+D2,SmartPhone,Private,Mobile,,51,36,DADVNOM,35,"1,2,10,11",5,"Wifi,Bluetooth,GSM","491,339",,,
+D3,SmartPhone,Private,Mobile,,77,46,QDSKEVI,17,"4,5",22,"Wifi,Bluetooth,GSM","674,538",,,
+D4,SmartPhone,Private,Mobile,,100,64,H70W6JC,68,"1,2",25,"Wifi,Bluetooth,GSM","1,607",,,
+D5,SmartPhone,Private,Mobile,,64,17,EL8EUPA,28,"12,16",23,"Wifi,Bluetooth,GSM","23,387",,,
+D6,Car,Private,Mobile,,5,46,4HQ6A2B,24,"1,4",24,"Wifi,Bluetooth,GSM","353,169",,,
+D7,Car,Private,Mobile,,21,1,LFMDJUC,18,7,3,"Wifi,Bluetooth,GSM","659,351",,,
+D8,Car,Private,Mobile,,19,46,5U0T86S,62,"1,5",6,"Wifi,Bluetooth,GSM","58,386",,,
+D9,Car,Private,Mobile,,51,21,O8LFAPF,88,"5,8,10",1,"Wifi,Bluetooth,GSM","679,389",,,
+D10,SmartPhone,Private,Mobile,,99,69,XJNTAPG,97,"5,8,10",1,"Wifi,Bluetooth,GSM","459,115",,,
+D11,SmartPhone,Private,Mobile,,37,97,K9QVEP0,62,"4,8,9",2,"Wifi,Bluetooth,GSM","445,460",,,

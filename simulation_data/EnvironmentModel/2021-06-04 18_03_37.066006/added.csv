@@ -1,0 +1,13 @@
+Device_id,Device,Device_type,Device_mobility,Device Distribution,Object_id,Owner_id,Owner_name,Manufacturing_id,Service_id,Application_id,Connectivity,GPS_Start,Link,Relationship,Application_id_sensor
+D1,SmartPhone,Private,Mobile,,18,12,,10,"5,8,10",1,"Wifi,Bluetooth,GSM","143,345",,,A10
+D2,SmartPhone,Private,Mobile,,15,6,,22,"1,13",9,"Wifi,Bluetooth,GSM","689,218",,,A16
+D3,SmartPhone,Private,Mobile,,6,0,,19,"5,6,8,9,10",11,"Wifi,Bluetooth,GSM","546,622",,,A1
+D4,SmartPhone,Private,Mobile,,19,7,,13,"5,8,10",1,"Wifi,Bluetooth,GSM","473,67",,,A10
+D5,SmartPhone,Private,Mobile,,10,25,,25,"5,6,8,9,10,5,8,10","11,1","Wifi,Bluetooth,GSM","595,259",,,"A1,A10"
+D6,Car,Private,Mobile,,18,7,,5,"5,6,8,9,10",11,"Wifi,Bluetooth,GSM","357,93",,,A1
+D7,Car,Private,Mobile,,18,16,,11,"5,6,8,9,10",11,"Wifi,Bluetooth,GSM","563,417",,,A1
+D8,Car,Private,Mobile,,3,21,,17,"5,6,8,9,10",11,"Wifi,Bluetooth,GSM","139,96",,,A1
+D9,Printer,Private,Static,,0,13,,24,"5,8,10",1,Wifi,"253,436",,,A10
+D10,Printer,Private,Static,,13,6,,23,"5,8,10",1,Wifi,"222,598",,,A10
+D11,Street Light,Public,Static,,17,8,,4,"5,6,8,9,10",11,ZigBee,"350,280",,,A1
+D12,Street Light,Public,Static,,10,3,,4,"1,13",9,ZigBee,"560,20",,,A16

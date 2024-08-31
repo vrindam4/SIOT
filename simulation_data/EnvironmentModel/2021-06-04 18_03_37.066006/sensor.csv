@@ -1,0 +1,20 @@
+Sensor_id,Application_id,Sensor_name,Application_name,GPS_Start,Application_Centre,Value
+S1,A1,CO2,Drive monitoring app,"491,88","531,168",359ppm
+S2,A1,Sound,Drive monitoring app,"531,88","531,168",55dB
+S3,A1,Temperature,Drive monitoring app,"571,88","531,168",46ºC
+S4,A1,Doppler sensors,Drive monitoring app,"491,128","531,168",Red
+S5,A1,Accelerometer,Drive monitoring app,"491,168","531,168",46Kmph
+S6,A1,Gyroscope,Drive monitoring app,"531,168","531,168","232,86,49"
+S7,A1,Wind,Drive monitoring app,"491,208","531,168",85Kmph
+S8,A1,Solar Radiation,Drive monitoring app,"531,208","531,168",1180W/m2
+S9,A1,LDR,Drive monitoring app,"491,248","531,168",Off
+S10,A10,CO2,Crash detect App,"147,130","187,170",356ppm
+S11,A10,Sound,Crash detect App,"187,130","187,170",95dB
+S12,A10,Temperature,Crash detect App,"227,130","187,170",-5ºC
+S13,A10,Doppler sensors,Crash detect App,"147,170","187,170",Red
+S14,A10,Accelerometer,Crash detect App,"147,210","187,170",117Kmph
+S15,A10,Gyroscope,Crash detect App,"187,210","187,170","347,349,186"
+S16,A16,GPS,Parking app,"479,443","479,483","479,443"
+S17,A16,PLS,Parking app,"479,483","479,483",Empty
+S18,,System Time,,"80,417",,18:03
+S19,A16,System Time,Parking app,"415,451","479,483",18:03
